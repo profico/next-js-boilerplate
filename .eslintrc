@@ -100,12 +100,7 @@
     "import/no-extraneous-dependencies": [
       "error",
       {
-        "devDependencies": [
-          "**/*.test.tsx",
-          "src/setupTests.ts",
-          "craco.config.js",
-          "vite.config.ts"
-        ]
+        "devDependencies": ["**/*.test.tsx", "next.config.js"]
       }
     ],
     "no-use-before-define": "off",
@@ -142,15 +137,7 @@
       {
         "blankLine": "always",
         "prev": "*",
-        "next": [
-          "const",
-          "let",
-          "var",
-          "interface",
-          "type",
-          "function",
-          "class"
-        ]
+        "next": ["const", "let", "var", "interface", "type", "function", "class"]
       },
       {
         "blankLine": "any",
