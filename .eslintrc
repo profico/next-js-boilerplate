@@ -1,5 +1,5 @@
 {
-  "extends": ["@profi.co/eslint-config/next"],
+  "extends": ["plugin:@profi.co/next"],
   "settings": {
     "import/resolver": {
       "node": {

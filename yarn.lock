@@ -191,15 +191,10 @@
   resolved "https://registry.yarnpkg.com/@polka/url/-/url-1.0.0-next.21.tgz#5de5a2385a35309427f6011992b544514d559aa1"
   integrity sha512-a5Sab1C4/icpTZVzZc5Ghpz88yQtGOyNqYXcZgOssB2uuAr+wF/MvN6bgtW32q7HHrvBki+BsZ0OuNv6EV3K9g==
 
-"@profi.co/eslint-config@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@profi.co/eslint-config/-/eslint-config-1.0.3.tgz#aff352c7c3992176764377d34ce4d9fbe547169d"
-  integrity sha512-AxIwW3sdafuwnwxZrAks46h4yuB2O05dcRU67oMsQJdyylJf7lQJjye+xNTPn4+6uR13iCPo/k8WS1q1PCQh+w==
-
-"@profi.co/eslint-plugin@^1.0.7":
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/@profi.co/eslint-plugin/-/eslint-plugin-1.0.7.tgz#0113b51b5de9691f9847e267c97045484e02d61a"
-  integrity sha512-myb49D8LPKhoZdxCU19Q3d1wl9y9pEePHkbJEnX44yW5Sc2nkWAI2oBM/f+aJWdOHQopRUVuWyALVSI8jKMdtQ==
+"@profi.co/eslint-plugin@^1.0.8":
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/@profi.co/eslint-plugin/-/eslint-plugin-1.0.8.tgz#57e809599156c8dd0e307a74cf777ea2a173ccd3"
+  integrity sha512-VBO23P1bs/yFMWVxYv6ev7tHAEAHPTRgIFxzZLwbmatGZu5dQOyWhi0DJu93R0l5+eUy3oHDvJ2MSzBLVaWuGQ==
 
 "@rushstack/eslint-patch@^1.1.3":
   version "1.2.0"
