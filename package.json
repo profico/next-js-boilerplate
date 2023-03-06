@@ -24,7 +24,7 @@
     "@profi.co/eslint-plugin": "^1.0.8",
     "@types/node": "18.14.2",
     "@types/react": "^18.0.27",
-    "@types/react-dom": "^18.0.10",
+    "@types/react-dom": "^18.0.11",
     "@typescript-eslint/eslint-plugin": "^5.50.0",
     "@typescript-eslint/parser": "^5.54.0",
     "eslint": "^8.35.0",
