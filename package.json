@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@next/bundle-analyzer": "^13.2.3",
-    "@next/eslint-plugin-next": "^13.1.6",
+    "@next/eslint-plugin-next": "^13.3.0",
     "@profi.co/eslint-plugin": "^1.1.7",
     "@types/node": "18.15.10",
     "@types/react": "^18.0.29",
